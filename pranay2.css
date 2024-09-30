@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -25,7 +26,7 @@ body{
     background-repeat: no-repeat;
     /* background-attachment: fixed; */
     background-size: cover;
-    background-position: 120px 45%;
+    background-position: 83px 45%;
     color: #fff;
     /* display: flex; */
     /* align-items: center; */
@@ -36,6 +37,8 @@ body{
 #main img{
     display: none;
 }
+
+
 .nav{
     height: 85px;
     width: 100%;
@@ -174,6 +177,14 @@ body{
 }
 .img3{
     text-align: center;
+}
+
+.dev h1{
+    text-align: center;
+    font-size: 29px;
+}
+.dev p{
+    font-size: 15px;
 }
 
 
